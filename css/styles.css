@@ -1,0 +1,46 @@
+body{
+  background-color: #222;
+  color: #f2edf6;
+}
+h1{
+  font-family: 'Monoton', cursive;
+}
+h2{
+  font-family: 'Audiowide', cursive
+}
+img{
+  float: right;
+  padding-left: 20;
+  margin-left: 20px;
+}
+button{
+  font-family: 'VT323', monospace;
+}
+ul {
+  font-family: 'VT323', monospace;
+  list-style-type: none;
+  margin: 10;
+  padding: 15;
+
+}
+input[type="number"], textarea {
+  background-color: black;
+}
+
+input{
+  color: #ffc0cb;
+}
+button{
+  background-color: black;
+}
+li {
+  color: #ffc0cb;
+}
+
+
+    /* font-family: 'Monoton', cursive;
+
+    font-family: 'VT323', monospace;
+
+    font-family: 'Audiowide', cursive;
+ */
